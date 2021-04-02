@@ -1,0 +1,2 @@
+C:\Users\cha0sk0de\source\repos\BomberEx\BomberEx\obj\Debug\BomberEx.csprojAssemblyReference.cache
+C:\Users\cha0sk0de\source\repos\BomberEx\BomberEx\obj\Debug\BomberEx.csproj.CoreCompileInputs.cache
